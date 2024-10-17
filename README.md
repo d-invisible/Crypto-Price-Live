@@ -1,4 +1,4 @@
-*Crypto Price Live
+# Crypto Price Live
 
 CoinGecko Crypto API
 
